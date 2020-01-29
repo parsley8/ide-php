@@ -1,3 +1,5 @@
+[![Gitpod Ready-to-Code](https://img.shields.io/badge/Gitpod-Ready--to--Code-blue?logo=gitpod)](https://gitpod.io/#https://github.com/atom/ide-php) 
+
 # IDE-PHP package
 [![macOS Build Status](https://travis-ci.org/atom/ide-php.svg?branch=master)](https://travis-ci.org/atom/ide-php) [![Windows Build Status](https://ci.appveyor.com/api/projects/status/99y003ssr76ovd17?svg=true)](https://ci.appveyor.com/project/Atom/ide-php/branch/master) [![Dependency Status](https://david-dm.org/atom/ide-php.svg)](https://david-dm.org/atom/ide-php)
 
